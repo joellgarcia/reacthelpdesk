@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/reacthelpdesk/static/css/main.1ca33877.chunk.css",
-    "main.js": "/reacthelpdesk/static/js/main.cc159ffa.chunk.js",
-    "main.js.map": "/reacthelpdesk/static/js/main.cc159ffa.chunk.js.map",
+    "main.js": "/reacthelpdesk/static/js/main.e7e97727.chunk.js",
+    "main.js.map": "/reacthelpdesk/static/js/main.e7e97727.chunk.js.map",
     "runtime-main.js": "/reacthelpdesk/static/js/runtime-main.3fd66a9f.js",
     "runtime-main.js.map": "/reacthelpdesk/static/js/runtime-main.3fd66a9f.js.map",
     "static/css/2.68b64559.chunk.css": "/reacthelpdesk/static/css/2.68b64559.chunk.css",
-    "static/js/2.e548a0db.chunk.js": "/reacthelpdesk/static/js/2.e548a0db.chunk.js",
-    "static/js/2.e548a0db.chunk.js.map": "/reacthelpdesk/static/js/2.e548a0db.chunk.js.map",
+    "static/js/2.762d7cd0.chunk.js": "/reacthelpdesk/static/js/2.762d7cd0.chunk.js",
+    "static/js/2.762d7cd0.chunk.js.map": "/reacthelpdesk/static/js/2.762d7cd0.chunk.js.map",
     "index.html": "/reacthelpdesk/index.html",
     "static/css/2.68b64559.chunk.css.map": "/reacthelpdesk/static/css/2.68b64559.chunk.css.map",
     "static/css/main.1ca33877.chunk.css.map": "/reacthelpdesk/static/css/main.1ca33877.chunk.css.map",
-    "static/js/2.e548a0db.chunk.js.LICENSE.txt": "/reacthelpdesk/static/js/2.e548a0db.chunk.js.LICENSE.txt",
+    "static/js/2.762d7cd0.chunk.js.LICENSE.txt": "/reacthelpdesk/static/js/2.762d7cd0.chunk.js.LICENSE.txt",
     "static/media/header.css": "/reacthelpdesk/static/media/cover.6a293bc8.png",
     "static/media/logo.1c649f13.png": "/reacthelpdesk/static/media/logo.1c649f13.png"
   },
   "entrypoints": [
     "static/js/runtime-main.3fd66a9f.js",
     "static/css/2.68b64559.chunk.css",
-    "static/js/2.e548a0db.chunk.js",
+    "static/js/2.762d7cd0.chunk.js",
     "static/css/main.1ca33877.chunk.css",
-    "static/js/main.cc159ffa.chunk.js"
+    "static/js/main.e7e97727.chunk.js"
   ]
 }
