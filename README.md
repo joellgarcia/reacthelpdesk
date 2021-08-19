@@ -4,6 +4,8 @@ Projeto elaborado durante o curso <a href="https://www.udemy.com/course/curso-re
 
 https://joellgarcia.github.io/reacthelpdesk/
 
+https://reacthelpdesk.netlify.app
+
 ### Links úteis
 
 1. Como fazer deploy de projeto React JS no Github pages:<br/><a href="https://medium.com/mobile-web-dev/how-to-build-and-deploy-a-react-app-to-github-pages-in-less-than-5-minutes-d6c4ffd30f14" target="_blank">How to build and deploy a React app to Github pages in less than 5 minutes</a>
